@@ -369,6 +369,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Explosion.cs"
 "Assets/Scripts/Boids.cs"
+"Assets/Scripts/Camera.cs"
+"Assets/Scripts/Close.cs"
 "Assets/Scripts/CreateBoids.cs"
 "Assets/Scripts/GetPoints.cs"
 "Assets/Scripts/MenuManager.cs"
